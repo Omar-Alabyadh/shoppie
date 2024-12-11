@@ -7,7 +7,7 @@
 
   Shoppie is a fully responsive ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://omaralabyadh.github.io/shoppie/"><strong>➥ Live Demo</strong></a>
+  <a href="https://omar-alabyadh.github.io/E-commerce-Website/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
