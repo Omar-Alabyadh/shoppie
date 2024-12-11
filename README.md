@@ -41,4 +41,4 @@ git clone https://github.com/codewithsadee/shoppie.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Email](omaralabyadh@gmail.com).
+If you want to contact me, you can reach me via email at [omaralabyadh@gmail.com](mailto:omaralabyadh@gmail.com).
